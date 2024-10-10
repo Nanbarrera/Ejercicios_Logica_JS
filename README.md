@@ -4,7 +4,7 @@
 
 ### MATERIA: APLICACIONES WEB PROGRESIVAS
 
-Actividad Ejercicios de Lógica JS
+**Actividad:** Ejercicios de Lógica JS
 
 - **DOCENTE:** SENEN ALDAHIR MAYORGA GARCIA
 - **NOMBRE DEL ALUMNO (A):** NANCY RAMOS BARRERA
